@@ -11,3 +11,10 @@
 This is an example of a GitHub repository.
 
 You can edit this file. 
+
+
+This is some additional text. 
+
+Additional text 2
+
+More text
